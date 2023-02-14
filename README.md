@@ -10,6 +10,8 @@
 
 - ### [The DeFi Edge](https://www.thedefiedge.com/)
 
+- ### [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
 # WEB3 DEVELOPMENT
 
 - ### [Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
