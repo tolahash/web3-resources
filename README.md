@@ -1,3 +1,3 @@
-# web3-resources
+# WEB3 RESOURCES GOLDMINE
 
-### [ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base)
+- ### [Ultimate Defi Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
