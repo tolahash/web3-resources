@@ -22,7 +22,7 @@
 
 - ### [Build Space](https://buildspace.so/)
 
-# WEB3 SECURITY
+# WEB3 SECURITY PRACTICE
 
 - ### [The Ethernaut](https://ethernaut.openzeppelin.com/)
 
