@@ -4,6 +4,8 @@
 
 - ### [Officer CIA Blog](https://officercia.mirror.xyz/)
 
+- ### [CIA Officer V2](https://cia.start.me/p/dlaxD0/ciaofficerv2)
+
 - ### [The NFT Library](https://thenftlibrary.super.site/)
 
 - ### [Investigation Threads by ZachXBT](https://investigations.notion.site/)
